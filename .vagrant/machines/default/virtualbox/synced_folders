@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/designingfuture":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/designingfuture","hostpath":"C:/Users/SEVEN/Documents/GitHub/designingfuture","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/SEVEN/Documents/GitHub/designingfuture","disabled":false}}}
